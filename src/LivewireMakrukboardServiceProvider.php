@@ -1,6 +1,6 @@
 <?php
 
-namespace YourVendor\LivewireMakrukboard;
+namespace Veerasaroot\LivewireMakrukboard;
 
 use Illuminate\Support\ServiceProvider;
 use Livewire\Livewire;

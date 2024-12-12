@@ -1,6 +1,6 @@
 <?php
 
-namespace YourVendor\LivewireMakrukboard;
+namespace Veerasaroot\LivewireMakrukboard;
 
 use Livewire\Component;
 use Illuminate\Support\Facades\Config;
