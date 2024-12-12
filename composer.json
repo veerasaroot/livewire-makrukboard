@@ -2,6 +2,7 @@
     "name": "veerasaroot/livewire-makrukboard",
     "description": "Makruk (Thai chess) board scripts for the Laravel Livewire project.",
     "type": "library",
+    "minimum-stability": "stable",
     "require": {
         "livewire/livewire": "^3.5",
         "illuminate/support": "^11.34"
